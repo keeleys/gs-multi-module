@@ -14,3 +14,4 @@ reference [https://spring.io/guides/gs/multi-module/](https://spring.io/guides/g
 ## use
 
 $ ./gradlew build && ./gradlew :application:bootRun
+
